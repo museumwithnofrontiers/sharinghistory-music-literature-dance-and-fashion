@@ -1,9 +1,27 @@
 /*
- * The visual identity of this exhibition: its styles, as Sharing History's
- * virtual exhibition pages printed them (exhibitions/AWE/_styles.css.php,
- * from the exhibition's row of sh_exhibitions_styles), as `--sh-*` tokens.
- * viewer-layout's minisite-sharinghistory.css lays the pages out with them.
- * This file belongs to the webdesigner: change a value here.
- *
- * TODO(dataset): written by inventory-app's scripts/minisites/sharinghistory-minisite.mjs.
+ * Music, Literature, Dance and Fashion: its styles, as Sharing History's virtual exhibition pages printed
+ * them (exhibitions/AWE/_styles.css.php for exhibition 9, from
+ * sh_exhibitions_styles). Written by inventory-app's
+ * scripts/minisites/sharinghistory-minisite.mjs.
  */
+:root {
+  --sh-head-bg: #20625E;
+  --sh-head-color: #FFFFFF;
+  --sh-body-bg: #A0DAD6;
+  --sh-footer-bg: #20625E;
+  --sh-footer-color: #FFFFFF;
+  --sh-footer-icon-bg: #20625E;
+  --sh-footer-icon-color: #FFFFFF;
+  --sh-menu1-bg: #20625E;
+  --sh-menu1-color: #FFFFFF;
+  --sh-menu2-bg: #20625E;
+  --sh-menu2-color: #FFFFFF;
+  --sh-tooltip-bg: #308D88;
+  --sh-tooltip-border: #20625E;
+  --sh-tooltip-color: #FFFFFF;
+  --sh-exh-right-bg: #20625E;
+  --sh-exh-right-color: #20625E;
+  --sh-home-image-color: #DCB66D;
+  --sh-intro-image-color: #DCB66D;
+  --sh-exh-image-color: #DCB66D;
+}
