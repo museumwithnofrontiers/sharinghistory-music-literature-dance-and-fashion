@@ -36,13 +36,13 @@ const parent = 'https://museumwithnofrontiers.github.io/sharinghistory'
 export default {
   // The dataset package this website renders. Must match the alias in
   // vite.config.js and the dependency in package.json.
-  datasetPackage: '@museumwnf/__DATASET__-data',
+  datasetPackage: '@museumwnf/sharinghistory-music-literature-dance-and-fashion-data',
 
-  siteName: manifest.site?.names?.en ?? '__SITE_NAME__',
+  siteName: manifest.site?.names?.en ?? 'Music, Literature, Dance and Fashion',
 
   // The absolute origin this build is deployed at, base path included, no
   // trailing slash: the GitHub Pages address of this repository.
-  site: { origin: 'https://museumwithnofrontiers.github.io/__DATASET__' },
+  site: { origin: 'https://museumwithnofrontiers.github.io/sharinghistory-music-literature-dance-and-fashion' },
 
   features: { entities: [] },
 
