@@ -76,6 +76,23 @@
       "href": "https://museumwithnofrontiers.github.io/sharinghistory/#/historical-profiles/33a5d611-575b-5cd7-aa48-3fa4bc39c3fd/55debb27-32a1-5186-8d72-a49b586da747"
     }
   ],
+  "logos": [
+    {
+      "image": "legacy/logos/item_logo_19.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=JO_01;jo&shpro=AWE&",
+      "tip": "Department of Antiquities, Amman, Jordan"
+    },
+    {
+      "image": "legacy/logos/item_logo_29.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=TR_02;tr&shpro=AWE&",
+      "tip": "Ministry of Culture and Tourism (General Directorate for Cultural Heritage and Museums), Ankara, T&uuml;rkiye"
+    },
+    {
+      "image": "legacy/logos/item_logo_39.png",
+      "link": "https://sharinghistory.museumwnf.org/pm_partner.php?id=ES_01;es&shpro=AWE&",
+      "tip": "National Museum of Decorative Arts, Madrid, Spain"
+    }
+  ],
   "partnerLinks": {
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=JO_01;jo&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/6f3cdc51-1adf-525e-99e8-9a95671e60e6",
     "https://sharinghistory.museumwnf.org/pm_partner.php?id=TR_02;tr&shpro=AWE&": "https://museumwithnofrontiers.github.io/sharinghistory/#/partner/8f0d2773-afea-51e8-ab5b-624187d06f77",
